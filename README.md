@@ -1,7 +1,7 @@
 
   Salve rapaziada! 👋 
 
-  Meu nome é Kauã, atualmente estudo a linguagem Java e também trampo com a linguagem JavaScript como bot developer.
+  Meu nome é Kauã, atualmente estudo a linguagem Java e também trampo com a linguagem JavaScript como 'BOT DEVELOPER'.
 
 <!---
 chapadowxz/chapadowxz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
